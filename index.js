@@ -46,4 +46,20 @@ document.getElementById(`p3`).textContent = `You are in school:${school}`;
 //console.log(`Your age is ${age}.`)
 //console.log(`Im in school!: ${school}.`)
 
+
+
+//Arethmetic Operators:
+
+let students = 30
+
+//students = students + 1;
+//students = students * 2;
+//students = students - 2;
+//students = students / 2;
+//students = students ** 2;
+
+students += 1;
+
+console.log(students)
 */
+
