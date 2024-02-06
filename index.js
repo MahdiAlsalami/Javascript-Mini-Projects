@@ -63,3 +63,31 @@ students += 1;
 console.log(students)
 */
 
+//User input:
+
+//let username = window.prompt(`What is your username:`)
+
+//console.log(username);
+
+/*document.getElementById(`mySubmit`).onclick = function(){
+  username = document.getElementById("myText").value;
+  document.getElementById(`myH1`).textContent = `Hello ${username}`
+
+}
+*/
+
+// the html code for user input: <body>
+ /* <h1 id="myH1">Welcome</h1>
+
+  <label>username: </label>
+  <input id="myText">
+    <br>
+    <br>
+  <button id="mySubmit">submit</button>
+
+
+  <script src="index.js" defer></script>
+</body>
+
+*/
+
